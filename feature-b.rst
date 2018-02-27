@@ -24,7 +24,7 @@ No.    Prime
 
 Image
 -----
-   image: HolmMagneticStructure.png
+   image: _static/HolmMagneticStructure.png
 
 Code example:
 -------------
@@ -36,3 +36,17 @@ Code example:
       printf("Hello, World!");
       return 0;
     }
+
+Code python:
+------------
+.. code-block:: python
+
+   import numpy as np
+   import matplotlib.pyplot as plt
+   plt.figure()
+
+   def some_function():
+       interesting = False
+       print 'This line is highlighted.'
+       print 'This one is not...'
+       print '...but this one is.'
