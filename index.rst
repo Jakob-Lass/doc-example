@@ -11,3 +11,4 @@ Welcome to Example doc's documentation!
    :caption: Contents:
 
    feature-a
+   feature-b
