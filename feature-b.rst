@@ -24,7 +24,7 @@ No.    Prime
 
 Image
 -----
-   image: _static/HolmMagneticStructure.png
+..   image: HolmMagneticStructure.png
 
 Code example:
 -------------
