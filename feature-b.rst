@@ -3,7 +3,7 @@ Feature B
 
 
 Level 1
-=======
+-------
 
 Another Level
 ^^^^^^^^^^^^^
