@@ -5,6 +5,9 @@ Feature B
 Level 1
 =======
 
+Another Level
+^^^^
+
 Level 2
 -------
 
@@ -13,14 +16,14 @@ Level 3
 
 Simple table
 """"""""""""
-====== ======
-No.    Prime
-====== ======
-1      No
-2      Yes
-3      Yes
-4      No
-====== ======
+====== ====== ======
+No.    Prime  Other 
+====== ====== ======
+1      No     ??  
+2      Yes    ??  
+3      Yes    ??  
+4      No     ??  
+====== ====== ======
 
 Image
 -----
