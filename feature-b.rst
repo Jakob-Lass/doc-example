@@ -2,11 +2,14 @@ Feature B
 =========
 
 
-Level 1
--------
+Description of feature B
+------------------------
+This feature is developed in order to make something easier.
 
-Another Level
+
+Dependencies
 ^^^^^^^^^^^^^
+This feature does not require any additional packages or the like.
 
 Level 2
 -------
@@ -25,9 +28,7 @@ No.    Prime  Other
 4      No     Yes 
 ====== ====== ======
 
-Image
------
-..   image: HolmMagneticStructure.png
+
 
 Code example:
 -------------

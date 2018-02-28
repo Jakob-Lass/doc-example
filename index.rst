@@ -12,3 +12,4 @@ Welcome to Example doc's documentation!
 
    feature-a
    feature-b
+   feature-c
