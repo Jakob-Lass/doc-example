@@ -6,7 +6,7 @@ Level 1
 =======
 
 Another Level
-^^^^
+^^^^^^^^^^^^^
 
 Level 2
 -------
@@ -15,14 +15,14 @@ Level 3
 ^^^^^^^
 
 Simple table
-""""""""""""
+^^^^^^^^^^^^
 ====== ====== ======
-No.    Prime  Other 
+No.    Prime  Other
 ====== ====== ======
-1      No     ??  
-2      Yes    ??  
-3      Yes    ??  
-4      No     ??  
+1      No     12
+2      Yes    1020
+3      Yes    No
+4      No     Yes 
 ====== ====== ======
 
 Image
