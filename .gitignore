@@ -1,3 +1,4 @@
 
 # ignore autmatically generated files
-_build
+_build/
+_build/index.html
