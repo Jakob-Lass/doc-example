@@ -85,7 +85,7 @@ todo_include_todos = False
 #
 html_theme = "classic"
 html_theme_options = {
-    "rightsidebar": "true",
+    "rightsidebar": "false",
     "relbarbgcolor": "black"
 }
 # Theme options are theme-specific and customize the look and feel of a theme
